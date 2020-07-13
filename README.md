@@ -8,7 +8,7 @@ As dificuldades são fácil e difícil, sendo uma sem movimentação dos canos e
 
 Tem uma opção de treinar uma rede neural e jogar contra essa rede treinada ou até mesmo jogar com uma pré-determinada.
 
-Para pular usa o espaço ou a seta para cima.
+Para pular, usa o espaço ou a seta para cima.
 
 Caso queira voltar no menu, apenas use o ESC.
 
